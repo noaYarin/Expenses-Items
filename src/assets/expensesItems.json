@@ -1,0 +1,17 @@
+[
+  {
+    "title": "New car",
+    "date": "2012-06-2",
+    "amount": "$40000"
+  },
+  {
+    "title": "Closet",
+    "date": "2020-03-19",
+    "amount": "$200"
+  },
+  {
+    "title": "Shoes",
+    "date": "2023-12-9",
+    "amount": "$40"
+  }
+]
