@@ -1,0 +1,21 @@
+.filter-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.filter-section .select-title {
+  font-size: large;
+  margin-top: 2rem;
+  font-weight: bold;
+  color: blueviolet;
+}
+
+.filter-section .select-list {
+  display: block;
+  max-width: 40%;
+  margin-top: 1rem;
+  padding: 1rem 1rem;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 12px;
+}
