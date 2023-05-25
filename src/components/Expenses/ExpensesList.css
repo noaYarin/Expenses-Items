@@ -2,3 +2,11 @@
   margin: 30px;
   max-width: 100%;
 }
+.expenses-list {
+  list-style-type: none;
+}
+.no-results {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
